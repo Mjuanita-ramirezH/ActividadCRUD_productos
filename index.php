@@ -386,7 +386,7 @@ elseif (isset($_POST['eliminar_tipo'])) {
 						</tbody>
 					</table>
 				<?php else: ?>
-					<p>No hay tipos registrados</p>
+					<p>No hay tipos registrados PRUEBA CAMBIO GIT HUB</p>
 				<?php endif; ?>	
 
 				<a href="?accion=menu" class="btn btn-secondary mt-3">Volver al menu</a>
